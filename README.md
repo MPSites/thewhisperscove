@@ -20,4 +20,5 @@ pass: user12345
 
 
 Admin Account:<br/>
-You can read about it's features in the website documentation below
+You can read about it's features in the website documentation below<br/>
+http://thewhisperscove.epizy.com/doc.pdf
