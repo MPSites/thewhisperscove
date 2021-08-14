@@ -12,6 +12,8 @@ HTML, CSS, JavaScript, JQuery, Ajax, PHP and MySQL
 You can access the website via this link:<br/>
 http://thewhisperscove.epizy.com
 
+Note: Website is hosted on a free hosting service so it may be inaccessible due to hosting policy
+
 # Login Credentials
 
 User Account (for testing purposes):<br/>
