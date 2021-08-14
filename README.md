@@ -16,8 +16,8 @@ http://thewhisperscove.epizy.com
 
 User Account (for testing purposes):<br/>
 email: user@user.com<br/>
-pass: user12345
-
+pass: user12345<br/>
+Note (or u can simply visit the website and register a new account)
 
 Admin Account:<br/>
 You can read about it's features in the website documentation below<br/>
