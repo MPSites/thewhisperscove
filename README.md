@@ -23,4 +23,4 @@ Note (or u can simply visit the website and register a new account)
 
 Admin Account:<br/>
 You can read about it's features in the website documentation below<br/>
-<a href="">Documentation</a>
+<a href="https://raw.githubusercontent.com/MPSites/thewhisperscove/main/doc.pdf">Documentation</a>
